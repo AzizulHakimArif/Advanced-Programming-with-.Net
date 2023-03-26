@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\IntroTierApp\DLL\bin\Debug\DLL.dll
+C:\Users\Asus\source\repos\IntroTierApp\DLL\bin\Debug\DLL.pdb
+C:\Users\Asus\source\repos\IntroTierApp\DLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\IntroTierApp\DLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\IntroTierApp\DLL\obj\Debug\DLL.dll
+C:\Users\Asus\source\repos\IntroTierApp\DLL\obj\Debug\DLL.pdb
+C:\Users\Asus\source\repos\IntroTierApp\DLL\bin\Debug\DAL.dll
+C:\Users\Asus\source\repos\IntroTierApp\DLL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\IntroTierApp\DLL\bin\Debug\DAL.pdb
+C:\Users\Asus\source\repos\IntroTierApp\DLL\bin\Debug\DAL.dll.config
+C:\Users\Asus\source\repos\IntroTierApp\DLL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\IntroTierApp\DLL\obj\Debug\BLL.csproj.CopyComplete
